@@ -1,4 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=B2EBF4&height=300&section=header&text=Hello%20GitHub&desc=HyunGyeong&descAlignY=65&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=B2EBF4&height=300&section=header&text=Hello%20GitHub&desc=HyunGyeong&descAlign=85&descAlignY=40&rotate=20&fontAlign=70&fontAlignY=30&fontSize=70" />
+
+<h2 align="center">✋Introduction</h2>
+<p align="center">
+  안녕하십니까! 프론트엔드 개발자가 되고 싶은 예비 개발자 입니다.
+</p><br /><br />
 
 <h2 align="center">📖Learn📖</h2>
 <div align="center">
@@ -13,5 +18,7 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br /><br />
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,Astro,makefile,Rust,Go&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=GLSL,Astro,makefile,Rust,Go&layout=compact)<br /><br />
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyunGyeong77&show_icons=true&theme=tokyonight)
 </div>
