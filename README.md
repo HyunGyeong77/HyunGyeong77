@@ -16,4 +16,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br /><br />
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunGyeong77&hide=GLSL,Astro,makefile,Rust,Go&layout=compact)<br /><br />
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={HyunGyeong77})](https://solved.ac/{HyunGyeong77})
 </div>
