@@ -14,6 +14,4 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br /><br />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyunGyeong77&hide=GLSL,Astro,makefile,Rust,Go&layout=compact)<br /><br />
 </div>
