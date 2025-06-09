@@ -2,7 +2,7 @@
 
 <h2 align="center">✋Introduction</h2>
 <p align="center">
-  안녕하십니까! 프론트엔드 개발자가 되고 싶은 예비 개발자 입니다.
+  안녕하십니까! 웹퍼블리셔가 되고 싶은 예비 개발자 입니다.
 </p><br /><br />
 
 <h2 align="center">📖Learn📖</h2>
