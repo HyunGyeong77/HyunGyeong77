@@ -1,17 +1,81 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=B2EBF4&height=300&section=header&text=Hello%20GitHub&desc=HyunGyeong&descAlign=85&descAlignY=40&rotate=20&fontAlign=70&fontAlignY=30&fontSize=70" />
-
-<h2 align="center">✋Introduction</h2>
-<p align="center">
-  안녕하십니까! 웹퍼블리셔가 되고 싶은 예비 개발자 입니다.
-</p><br /><br />
-
-<h2 align="center">📖Learn📖</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a><br />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a><br /><br />
+  <img src="assets/title.gif" width="500px">
+</div>
+<br>
+<div align="center">
+  <h3>📦 Tech Stack</h3>
+  <div>
+    <span>🖥️ FrontEnd</span>
+    <div>
+      <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/css3-0082F0.svg?style=for-the-badge&logo=css&logoColor=white" />
+      <img src="https://img.shields.io/badge/scss-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
+    </div>
+    <div>
+      <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+    </div>
+  <div>
+  <br>
+  <div>
+    <span>🗄️BackEnd</span>
+    <div>
+      <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=fff" />
+      <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </div>
+  </div>
+</div>
+<br>
+<div align="center">
+  <h3>🛠️ Tools</h3>
+  <div>
+    <span>🔄 Version Control</span>
+    <div>
+      <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    </div>
+  </div>
+  <br>
+  <div>
+    <span>🐬 DB</span>
+    <div>
+      <img src="https://img.shields.io/badge/supabase-3FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+    </div>
+  </div>
+  <br>
+  <div>
+    <span>🎨 Design</span>
+    <div>
+      <img src="https://img.shields.io/badge/photoshop-2991de.svg?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/illustrator-fe9900.svg?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    </div>
+  </div>
+  <br>
+  <div>
+    <span>💻 Editor</span>
+    <div>
+      <img src="https://img.shields.io/badge/vs%20code-0079ba.svg?style=for-the-badge" />
+    </div>
+  </div>
+</div>
+<br>
+<div align="center">
+  <h3>🚀 DevOps</h3>
+  <div>
+    <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/render-444444.svg?style=for-the-badge&logo=render&logoColor=white" />
+  </div>
+</div>
+<br>
+<hr>
+<div>
+  <h3>💌 Contact</h3>
+  <div>
+    <a href="mailto:jwiroo99@gmail.com">
+      <img src="https://img.shields.io/badge/Email-jwiroo99@gmail.com-a678e1.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF8A80" />
+    </a>
+  </div>
 </div>
