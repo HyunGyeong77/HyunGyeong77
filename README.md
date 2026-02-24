@@ -85,12 +85,11 @@
 <div>
   <h3>🔥 Stats</h3>
   <div>
-    <img src="https://streak-stats.demolab.com?user=HyunGyeong77&theme=radical&short_numbers=true">
-  </div>
-  <br>
-  <div>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HyunGyeong77&theme=radical&layout=compact"/>
+    <br><br>
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HyunGyeong77&show_icons=true&theme=radical">
+    <br><br>
+    <img src="https://streak-stats.demolab.com?user=HyunGyeong77&theme=radical&short_numbers=true">
   </div>
 </div>
 <br>
