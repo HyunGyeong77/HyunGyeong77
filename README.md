@@ -79,3 +79,20 @@
     </a>
   </div>
 </div>
+<br>
+<hr>
+<br>
+<div>
+  <h3>🔥 Stats</h3>
+  <div>
+    <img src="https://streak-stats.demolab.com?user=HyunGyeong77&theme=radical&short_numbers=true">
+  </div>
+  <br>
+  <div>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HyunGyeong77&theme=radical&layout=compact"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HyunGyeong77&show_icons=true&theme=radical">
+  </div>
+</div>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playpen+Sans+Thai&weight=800&duration=3000&pause=2000&color=CB63F8&center=true&vCenter=true&width=435&lines=See+the+repositories+for+more+information.">
